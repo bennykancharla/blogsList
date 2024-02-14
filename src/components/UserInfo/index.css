@@ -1,0 +1,22 @@
+/* Write your CSS code here */
+
+.profile-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile-image {
+  width: 80px;
+  margin: 0px;
+}
+
+.profile-name {
+  color: #12022f;
+  margin: 2px;
+}
+
+.profile-desc {
+  color: #9aa5b1;
+}
